@@ -1,0 +1,12 @@
+.background {
+  fill: #eeeeee;
+}
+
+.label {
+  font: 300 12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  fill: #2f2f2f;
+}
+
+line {
+  stroke: #fff;
+}
